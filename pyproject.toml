@@ -1,0 +1,14 @@
+[project]
+name = "s_tools"
+description = "ComfyUI nodes: Save 3D (FBX/OBJ/GLB with texture and real-world units), FBX input, Mesh Clay, Load Image (optional), UltraTex helpers (single photo and multi-view)."
+version = "1.0.1"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/sofiakholina/sofiakholina-s_tools"
+
+[tool.comfy]
+PublisherId = "sofiakholina"
+DisplayName = "s_tools"
+Icon = ""
